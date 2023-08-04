@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServerInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ServerIP="3104899230" ServerConnPort="27016" ServerQueryPort="27015" GameTags="PVP,CHn,EZY,2Pp,WSy,F2P,BEn,&lt;tn&gt;https://i.ibb.co/d70n9yj/fenix.jpg&lt;/tn&gt;,&lt;net&gt;sns&lt;/net&gt;,&lt;pf&gt;rm&lt;/pf&gt;" Map="FenixZ" ServerName="FENIX PROJECT">
+  <Mods>
+    <string>1516033219</string>
+    <string>1748033578</string>
+    <string>1748914023</string>
+    <string>1753131903</string>
+    <string>1764812248</string>
+    <string>1823207482</string>
+    <string>1862799746</string>
+    <string>1935236838</string>
+    <string>2002381126</string>
+    <string>2123150813</string>
+    <string>2143463292</string>
+    <string>2255493841</string>
+    <string>2336509758</string>
+    <string>2372420780</string>
+    <string>2398410955</string>
+    <string>2278042205</string>
+    <string>1771005393</string>
+  </Mods>
+</ServerInfo>
